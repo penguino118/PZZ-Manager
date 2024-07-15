@@ -1,3 +1,7 @@
+# NOW ARCHIVED
+Superseeded by [PZZ-ARC](https://github.com/penguino118/PZZ-ARC)
+
+
 # PZZ-Manager
 Set of tools to help manage unpacked .PZZ files from GioGio's Bizarre Adventure (PS2)
 This has a repacker that will create .PZZ packages out of unpacked folders, and a renamer that will add extensions to unpacked files.
